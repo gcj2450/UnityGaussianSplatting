@@ -24,3 +24,7 @@
 /projects/**/Temp/*
 /projects/**/UserSettings/*
 /projects/**/obj/*
+/models
+/models.zip
+/projects/GaussianExample-URP/.vs
+/projects/GaussianExample-URP/.vsconfig
